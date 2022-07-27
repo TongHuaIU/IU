@@ -27,4 +27,7 @@ public class Info {
     public void doMath(){
         System.out.println("做数学题");
     }
+    public void Sing(){
+        System.out.println("唱歌")
+        }
 }
