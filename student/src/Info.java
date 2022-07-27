@@ -28,6 +28,6 @@ public class Info {
         System.out.println("做数学题");
     }
     public void Sing(){
-        System.out.println("唱歌")
+        System.out.println("唱歌");
         }
 }
